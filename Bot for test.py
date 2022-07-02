@@ -1442,7 +1442,7 @@ def run():
   bot.add_cog(Niveaux(bot))
   bot.add_cog(Warns(bot))
   bot.add_cog(Owner(bot))
-  Token="OTUxODk5MzI4ODI4NTY3NjEy.YiuLVQ.Mh8qqFzSdFmKOCSgECiUT7QtdwE"
+  Token=""
   bot.run(Token)
 
 if __name__ == "__main__":
